@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["HCL9F2N8EU.dev.aislerise.app", "HCL9F2N8EU.dev.aislerise.app.dev"],
+        "components": [{ "/": "/v/*", "comment": "Store visit links (store-visit-link-r1)" }]
+      }
+    ]
+  }
+}
